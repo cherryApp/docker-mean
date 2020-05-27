@@ -1,0 +1,1 @@
+# MEAN stack development environment in a Docker container.
