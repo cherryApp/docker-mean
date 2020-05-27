@@ -1,3 +1,4 @@
+# Run this scripts where system is started.
 echo "Hello, World"
 pm2 start /app/server/bin/www
 sleep 2
